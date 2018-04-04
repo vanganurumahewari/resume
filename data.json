@@ -6,17 +6,39 @@
         {
             "degree":"ssc",
             "school":"z.p.high school",
-            "data":["2005","90%"]
+            "data":["2005", "90%"]
         },
         {
           "degree":"intermediate",
           "school":"mangal junior college",
-          "data":["2007","90%"]
+          "data":["2007", "90%"]
         },
         {
           "degree":"graduation",
           "school":"sree vidyanikethan",
-          "data":["2011","90%"]
+          "data":["2011", "90%"]
         }
+      ],
+      "skills":[
+            {
+              "name":"operating system",
+              "info":["windows","fedora","ubuntu","redhat"]
+              },
+              {
+                "name":"languages",
+                "info":["c","c++","java","python"]
+                },
+                {
+                  "name":"databases",
+                  "info":["oracle","mysql","mongoDB","cybase"]
+                  },
+                  {
+                    "name":"web technologies",
+                    "info":["html","css","javascript"]
+                  },
+                  {
+                    "name":"frame work",
+                    "info":["bootstrap",".net"]
+                  }
       ]
     }

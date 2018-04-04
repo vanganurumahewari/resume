@@ -41,6 +41,18 @@ a{
   text-decoration: none;
 
 }
+table{
+  width=95%;
+}
+td{
+  padding=1%;
+}
+tr:nth-child(even){
+  background: wheat;
+}
+tr:nth-child(odd){
+  background: skyblue;
+}
 @media only screen and (min-width:360px) and (max-width:480px){
 .flex-parent{
   display: flex;
